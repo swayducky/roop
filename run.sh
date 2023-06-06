@@ -1,1 +1,1 @@
-./po.sh python run.py
+./poetry.sh run python run.py --gpu-vendor nvidia
